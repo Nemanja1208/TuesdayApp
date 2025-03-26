@@ -5,7 +5,7 @@ namespace TuesdayApp
     {
         public static void Main(string[] args)
         {
-            // Nemo is the best
+            // Nemo is the best !!
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
